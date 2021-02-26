@@ -33,7 +33,7 @@
             data1 = data1[order(data1$subject),]
             data1 = data1[,c(c(3,1,2),4:564)]
 
-#Code continuous with step 2
+#Code continues with step 2
     #2. Extract only the measurements on the mean and standard deviation for each measurement 
         #load dplyr
             library(dplyr)
