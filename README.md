@@ -4,7 +4,7 @@ The contents of this repo are:
 
 1. This README.md
 
-2. The codebook.md linking the original data, explaining all steps involved in modification of the data, 
+2. The Codebook.md linking the original data, explaining all steps involved in modification of the data, 
    explaining all variables
    
 3. The file run_analysis.R with the code itself
