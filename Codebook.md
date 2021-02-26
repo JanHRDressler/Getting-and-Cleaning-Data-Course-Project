@@ -8,7 +8,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 		- The file run_analysis.R does the following to the original data (all the following descriptions are also part of the file itself)
 
 			- It starts with steps 1, 3 and 4
-				1. Merge the training and the test sets to create one data se
+				1. Merge the training and the test sets to create one data set
 				3. Use descriptive activity names to name the activities in the data set
 				4. Appropriately label the data set with descriptive variable name
 				
