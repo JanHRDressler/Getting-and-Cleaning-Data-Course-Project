@@ -12,7 +12,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 				3. Use descriptive activity names to name the activities in the data set
 				4. Appropriately label the data set with descriptive variable name
 				
-				- If your working directory ontains the unzipped folder UCI HAR Dataset it does the following to make that happen
+				- If your working directory contains the unzipped folder UCI HAR Dataset it does the following to make that happen
 					- Reads train data
 					- Reads test data
 					- Reads labels
