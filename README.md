@@ -9,4 +9,4 @@ The contents of this repo are:
    
 3. The file run_analysis.R with the code itself
 
-4. The file run_analyis_tidy2.txt which is the second tidy data set to generate
+4. The file run_analysis_tidy2.txt which is the second tidy data set to generate
