@@ -22,7 +22,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 					- Merges the data to the first data set called data1
 					- Reorders data1 by subject, swaps subject to first col
 
-			- It then continuous with step 2
+			- It then continues with step 2
 				2. Extract only the measurements on the mean and standard deviation for each measurement 
 				 
 				- If dplyr is installed, it does the following to make that happen
