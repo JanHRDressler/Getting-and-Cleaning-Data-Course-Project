@@ -1,8 +1,8 @@
 #Code starts with steps 1, 3 and 4
-    #1. Merge the training and the test sets to create one data se
+    #1. Merge the training and the test sets to create one data set
     #3. Use descriptive activity names to name the activities in the data set
     #4. Appropriately label the data set with descriptive variable name
-    #If your working directory ontains the unzipped folder UCI HAR Dataset the following code works
+    #If your working directory contains the unzipped folder UCI HAR Dataset the following code works
         #read train data
             X_train = read.table("./UCI HAR Dataset/train/X_train.txt", header = FALSE)
             y_train = read.table("./UCI HAR Dataset/train/y_train.txt", header = FALSE)
